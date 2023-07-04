@@ -81,16 +81,4 @@ To containerize the application using Docker, follow these steps:
 - Include JWT in all APIs
 - Develop postman request collections
 - Produce a Docker image.
-  
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-Make sure to replace <repository_url>, <project_directory>, <project_name>, <collection_file_name>, and <image_name> with your own values.
-
-Let me know if there's anything else I can assist you with!
-```
